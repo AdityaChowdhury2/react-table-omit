@@ -1,0 +1,12 @@
+.table-header {
+	padding: 10px;
+	flex-grow: 1;
+}
+.table-head .table-header:not(:last-child) {
+	border-right: 1px solid #000;
+}
+
+.table-data {
+	padding: 10px;
+	flex-grow: 1;
+}
